@@ -18,6 +18,7 @@
 
 	<modules>
 		<module>yav-mvp</module>
+		<module>yav-mvp-test</module>
 	</modules>
 
 	<properties>
